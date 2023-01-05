@@ -26,8 +26,8 @@
 ### TIL list
 
 * dart\
-[230103](dart/230103.md)\
-[230104](dart/230104.md)
+[230103](/winterTIL/dart/230103.md)\
+[230104](/winterTIL/dart/230104.md)
 
 * flutter\
-[230104](flutter/230104.md)
+[230104](/winterTIL/flutter/230104.md)
