@@ -26,12 +26,12 @@
 ### TIL list
 
 * dart\
-[230103](/winterTIL/dart/230103.md)\
-[230104](/winterTIL/dart/230104.md)
+[230103](/dart/230103.md)\
+[230104](/dart/230104.md)
 
 * flutter\
-[230104](/winterTIL/Flutter/230104.md)\
-[230105](/winterTIL/Flutter/230105.md)
+[230104](/Flutter/230104.md)\
+[230105](/Flutter/230105.md)
 
 * solved\
-[230105](/winterTIL/solved/230105.md)
+[230105](/solved/230105.md)
